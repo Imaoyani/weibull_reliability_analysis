@@ -138,13 +138,11 @@ distribution is an appropriate model for this failure data.*
 
 ### Alpha Consequence Comparison
 
-![Alpha Consequence Comparison]
-(figures/alpha_consequences_comparison.png)
+![Alpha Consequence Comparison](figures/alpha_consequences_comparison.png)
 
 ### Environmental Risk Overlay
 
-![Environmental Risk Overlay]
-(figures/Environmental Risk Overlay.png)
+![Environmental Risk Overlay](figures/Environmental_Risk_Overlay.png)
 
 ### Reliability vs Environmental Risk
 
