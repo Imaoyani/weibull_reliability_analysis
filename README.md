@@ -116,7 +116,7 @@ Risk thresholds:
 ### Reliability Dashboard
 
 
-![Reliability Dashboard](figures/dashboard.png)
+![Reliability Dashboard](dashboard.png)
 
 
 
@@ -128,7 +128,7 @@ monotonically, justifying a preventive maintenance strategy.*
 ### Weibull Probability Plot
 
 
-![Weibull Probability Plot](figures/weibull_probability_plot.png)
+![Weibull Probability Plot](weibull_probability_plot.png)
 
 
 
@@ -138,14 +138,14 @@ distribution is an appropriate model for this failure data.*
 
 ### Alpha Consequence Comparison
 
-![Alpha Consequence Comparison](figures/alpha_consequences_comparison.png)
+![Alpha Consequence Comparison](alpha_consequences_comparison.png)
 
 
 *This highlight operational consequence elevation over continous operating hours*
 
 ### Environmental Risk Overlay
 
-![Environmental Risk Overlay](figures/Environmental_Risk_Overlay.png)
+![Environmental Risk Overlay](Environmental_Risk_Overlay.png)
 
 
 
@@ -154,7 +154,7 @@ distribution is an appropriate model for this failure data.*
 ### Reliability vs Environmental Risk
 
 
-![Reliability Risk Chart](figures/reliability_risk_chart.png)
+![Reliability Risk Chart](reliability_risk_chart.png)
 
 
 
