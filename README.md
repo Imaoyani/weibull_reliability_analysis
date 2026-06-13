@@ -145,7 +145,7 @@ distribution is an appropriate model for this failure data.*
 
 ### Environmental Risk Overlay
 
-![Environmental Risk Overlay](Environmental_Risk_Overlay.png)
+![Environmental Risk Overlay](environmental_risk_overlay.png)
 
 
 
