@@ -140,9 +140,16 @@ distribution is an appropriate model for this failure data.*
 
 ![Alpha Consequence Comparison](figures/alpha_consequences_comparison.png)
 
+
+*This highlight operational consequence elevation over continous operating hours*
+
 ### Environmental Risk Overlay
 
 ![Environmental Risk Overlay](figures/Environmental_Risk_Overlay.png)
+
+
+
+*Normalised Environmental Risk over Operating Hours. Showing low risk threshold, moderate risk threshold, elevated risk point and the ideal intervention point.*
 
 ### Reliability vs Environmental Risk
 
