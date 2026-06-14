@@ -10,7 +10,7 @@
 This project implements a complete Weibull failure analysis for a 
 mechanical seal operating in crude oil pump service, extended with 
 an environmental risk overlay to derive a risk-based maintenance 
-interval recommendation.
+interval.
 
 The analysis covers parameter estimation, reliability function 
 computation, key life metrics, model validation, and consequence 
